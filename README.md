@@ -1,2 +1,2 @@
 # TwitterTicTacToe
-Coding a tic tac toe app for Twitter.
+Coding a tic tac toe app on Twitter for practice.
