@@ -16,7 +16,6 @@ table {
     left: 50%;
     margin-left: -155px;
     top:50px;
-<<<<<<< HEAD
 }
 
 table tr:first-child td {
@@ -33,6 +32,4 @@ table tr td:first-child {
 
 table tr td:last-child {
     border-right: 0; /* gets rid of the right line to create tic tac toe board out of 9 squares */
-=======
->>>>>>> fc375a3e2b54e10e29d576f294d2c31ee16a33af
 }
