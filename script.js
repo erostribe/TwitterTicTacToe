@@ -4,5 +4,7 @@ const humanPlayer = 'O'; // Keeps track of the human player as O //
 
 const aiPlayer = 'X'; // Keeps track of the AI player as X //
 
-const winningCombo = [] //  Shows the winning combinations for the board //
+const winningCombo = [
+
+] //  Shows all the winning combinations for the board //
 
